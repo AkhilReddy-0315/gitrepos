@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 10px;
+}
+
+.title {
+  font-family: Lobster;
+  font-size: 24px;
+}
+
+.git-ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.repo-ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fail-img {
+  width: 70vw;
+  height: 500px;
+}
+
+.failCon {
+  display: flex;
+  justify-content: center;
+}

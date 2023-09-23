@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.lang-li {
+  margin-right: 15px;
+}
+
+.lang-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: Roboto;
+  min-width: 60px;
+}
+
+.highLight {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  padding: 10px;
+  border-radius: 20px;
+}
